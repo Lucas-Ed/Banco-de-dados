@@ -1,6 +1,5 @@
 --Comandos SQL usáveis
-
---Criar tabela
+---local do banco C:/ProgramData/MySQL/MySQL Server 8.0/ Data/
 CREATE TABLE Cidade (
     id int IDENTITY(1,1) primary key,
     nome varchar(255) not null
